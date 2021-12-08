@@ -1,0 +1,48 @@
+Information om beställning 
+-----------------------------------------
+Namn på beställning: UppsalaNvdbGDB
+Starttid: 2021-03-08 09:51:26
+Betraktelsedatum: 2021-02-25 00:00:00
+Format: TNE HGENGeoDB
+Koordinatsystem: 
+Beskrivning: UppsalaNvdbGDB
+Filstorlek: 29 MB
+
+Dataprodukter 
+-----------------------------------------
+Bro och tunnel/Konstruktion
+C - Rekommenderad bilväg för cykeltrafik
+
+C_Cykelled
+Driftbidrag statligt/Vägdelsnr
+
+Driftbidrag statligt/Vägnr
+
+Funktionell vägklass/Klass
+Färjeled
+
+Förbjuden färdriktning (Bakriktningen)
+
+Förbjuden färdriktning (Framriktningen)
+
+Gatunamn/Namn
+GCM-vägtyp/GCM-typ
+Hastighetsgräns/Högsta tillåtna hastighet (Bakriktningen)
+Hastighetsgräns/Högsta tillåtna hastighet (Framriktningen)
+Motortrafikled
+Motorväg
+
+Slitlager/Slitlagertyp
+Trafik/ÅDT fordon
+Vägbredd/Bredd
+Väghållare/Väghållarnamn
+Väghållare/Väghållartyp
+Vägtrafiknät/Nättyp
+
+Övrig information 
+-----------------------------------------
+Dataprodukter kan innehålla avslutade attribut, de är i så fall markerade med * i listan ovan. För mer information se Dataproduktkatalogen.
+
+Område: UPPSALA LÄN              
+Sluttid: 2021-03-08 10:05:35
+Filnamn: UppsalaNvdbGDB_TNE_UPPSALALÄN_42267_235427
